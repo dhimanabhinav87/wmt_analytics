@@ -1,0 +1,1 @@
+CREATE KEYSPACE wmt_analytics  WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 1 };

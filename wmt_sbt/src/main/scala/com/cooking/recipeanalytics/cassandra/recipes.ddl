@@ -1,0 +1,1 @@
+CREATE TABLE wmt_analytics.recipes (recipe_name text PRIMARY KEY);
